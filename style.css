@@ -356,6 +356,10 @@ width:140px;
 
 .hero-right img{
 max-width:350px;
+
+.btn-nav{
+    display:none;
+}
 }
 
 }
